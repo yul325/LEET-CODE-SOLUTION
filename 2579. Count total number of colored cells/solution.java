@@ -1,5 +1,5 @@
 class Solution {
-    //123
+    //12345
     public static void main(String args[]){
         coloredCells(2);
     }
