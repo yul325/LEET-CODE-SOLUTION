@@ -1,5 +1,4 @@
 class Solution {
-    //1234
     public static void main(String args[]){
         int[] nums = {3, 2, 4};
         twoSum(nums, 6);
