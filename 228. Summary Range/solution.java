@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution implements solutionInterface{
+    //
     public List<String> summaryRanges(int[] nums) {
         List<String> result = new ArrayList<>();
         StringBuilder string = new StringBuilder();
