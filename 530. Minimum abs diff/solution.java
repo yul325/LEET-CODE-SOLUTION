@@ -5,8 +5,8 @@ class Solution{
     public static void main(String args[]){
         TreeNode root = new TreeNode(236, new TreeNode(104,null , new TreeNode(227)), new TreeNode(701, null, new TreeNode(911)));
         int a = getMinimumDifference(root);
-    }//
-
+    }
+//
     public static int getMinimumDifference(TreeNode root) {
         int min = 2147483647;
         Queue<TreeNode> queue = new LinkedList<>();
