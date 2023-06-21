@@ -1,4 +1,5 @@
 class Solution implements solutionInterface {
+    //
     public long minCost(int[] nums, int[] cost) {
         int n = nums.length;
         int left = Integer.MAX_VALUE;
