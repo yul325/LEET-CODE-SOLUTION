@@ -1,5 +1,5 @@
 class Solution implements solutionInterface {
-    //gg
+    //ggg
     public long minCost(int[] nums, int[] cost) {
         int n = nums.length;
         int left = Integer.MAX_VALUE;
