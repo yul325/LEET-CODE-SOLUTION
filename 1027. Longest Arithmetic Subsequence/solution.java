@@ -1,5 +1,5 @@
 import java.util.*;
-
+//
 class Solution implements solutionInterface{
     public int longestArithSeqLength(int[] nums) {
         int result = 0;
